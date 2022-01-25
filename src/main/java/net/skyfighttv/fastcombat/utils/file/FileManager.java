@@ -1,6 +1,6 @@
 package net.skyfighttv.fastcombat.utils.file;
 
-import net.skyfighttv.fastrtp.Main;
+import net.skyfighttv.fastcombat.Main;
 import org.bukkit.configuration.file.YamlConfiguration;
 
 import java.io.*;
