@@ -1,0 +1,26 @@
+#
+#$$$$$$$$\                   $$\      $$$$$$\                          $$\                  $$\
+#$$  _____|                  $$ |    $$  __$$\                         $$ |                 $$ |
+#$$ |   $$$$$$\   $$$$$$$\ $$$$$$\   $$ /  \__| $$$$$$\  $$$$$$\$$$$\  $$$$$$$\   $$$$$$\ $$$$$$\
+#$$$$$\ \____$$\ $$  _____|\_$$  _|  $$ |      $$  __$$\ $$  _$$  _$$\ $$  __$$\  \____$$\\_$$  _|
+#$$  __|$$$$$$$ |\$$$$$$\    $$ |    $$ |      $$ /  $$ |$$ / $$ / $$ |$$ |  $$ | $$$$$$$ | $$ |
+#$$ |  $$  __$$ | \____$$\   $$ |$$\ $$ |  $$\ $$ |  $$ |$$ | $$ | $$ |$$ |  $$ |$$  __$$ | $$ |$$\
+#$$ |  \$$$$$$$ |$$$$$$$  |  \$$$$  |\$$$$$$  |\$$$$$$  |$$ | $$ | $$ |$$$$$$$  |\$$$$$$$ | \$$$$  |
+#\__|   \_______|\_______/    \____/  \______/  \______/ \__| \__| \__|\_______/  \_______|  \____/
+####################################################################################################
+#This plugin is made by SkyfightTV for everyone
+#It works between spigot version 1.7 and 1.18
+#This plugin can be reloaded
+
+#Permission to bypass the combat system
+#If u give this permission to everyone, nobody was managed by combat System
+permission: "fastcombat"
+
+#The time during which the player is in combat.
+#The time is in seconds.
+time: 30
+
+#Would u accept commands during the combat ?
+# false = The player is denied to execute commands.
+# true = The player is allowed to execute commands.
+commands: false
